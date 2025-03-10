@@ -29,3 +29,7 @@ The CSS styling in Chatbot.css ensures that the chatbot is responsive and visual
 
 # OUT PUT
 
+![Image](https://github.com/user-attachments/assets/3df8ffae-79e4-42b9-ae6e-d366c6b5980f)
+
+
+![Image](https://github.com/user-attachments/assets/ac83b5fc-801e-46ff-8800-8e67640fb718)
